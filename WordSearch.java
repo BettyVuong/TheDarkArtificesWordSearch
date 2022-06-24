@@ -1,5 +1,4 @@
 /**
- * Betty Vuong 
  * ICS4U
  * 23/06/22
  * An object class that is the skeleton of the word search. Class reads files to 2d arrays, displays 2d array, and sort and searches arrays. 
