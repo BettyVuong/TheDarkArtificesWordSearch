@@ -1,5 +1,4 @@
-/**
- * Betty Vuong 
+/** 
  * ICS4U
  * 23/06/22
  * Class acts like a stack. The Stack can push, pop, empty, check if stack is empty or full, calculate stack size. Stack stores int
