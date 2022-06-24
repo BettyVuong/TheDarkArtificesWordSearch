@@ -1,5 +1,4 @@
 /**
- * Betty Vuong 
  * ICS4U
  * 23/06/22
  * An object class that acts like a stopwatch. The object can time, calculate time elapsed in nanoseconds, seconds, minutes, and hours.
