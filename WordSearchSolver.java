@@ -1,5 +1,4 @@
 /**
- * Betty Vuong 
  * ICS4U
  * 23/06/22
  * An object class that is the child class of WordSearch class. The class solves the word search when user interacts and inputs in main class.
