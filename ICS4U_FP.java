@@ -1,5 +1,4 @@
 /**
- * Betty Vuong 
  * ICS4U
  * 23/06/22
  * Program is a themed story line word search based off of The Shadowhunter Chronicles book realm. The class works along with these 
